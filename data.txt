@@ -1,0 +1,12 @@
+aaaaaaaa
+bbbbbbbbbb
+c
+ddd
+eeeeeee
+
+ROMDATA 000100
+RAMDATA 000010
+ffff
+gggggg
+
+
