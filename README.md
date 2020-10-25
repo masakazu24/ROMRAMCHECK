@@ -1,0 +1,2 @@
+# ROMRAMCHECK
+マップファイルを読み込みROMとRAMの使用量を表示する
