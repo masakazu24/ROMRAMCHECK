@@ -1,5 +1,9 @@
+import sys
+
+file_name = sys.argv[1]
+
 # 読込むファイルのパスを宣言する
-file_name = "./PLG.map"
+# file_name = "./PLG.map"
 
 # 01234567890123456789012345
 # RAMDATA SECTION:  000025bc Byte(s)
